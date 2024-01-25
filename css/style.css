@@ -1,12 +1,16 @@
-body {
-    background-color: #e7D1b5;
+.clearfix {
+    background-color: #E7D1B5;
 }
-
-
-
-
 .imgMain {
     width: 550px !important;
     float: right;
     height: 600px !important;
+}
+p {
+    font-size: 22px;
+}
+.beforeafterText {
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
